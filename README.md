@@ -244,4 +244,5 @@ graph TB
 
 ---
 
-*This documentation provides a comprehensive overview of the Tiny Shell architecture and job control mechanisms.*
+## Notes
+Upon request, code can shown for professional purposes.
